@@ -1,0 +1,320 @@
+{
+  "bullets_domain": {
+    "x": "0",
+    "y": "0",
+    "width": "1920",
+    "height": "1080"
+  },
+  "misc": {
+    "velocity": "0"
+  },
+  "back_layers": [
+    {
+      "velocity": "0",
+      "x": "0",
+      "y": "0",
+      "sprites": {
+        "type": "image",
+        "path": "background.png"
+      }
+    },
+    {
+      "velocity": "0",
+      "x": "0",
+      "y": "0",
+      "type": "bomb",
+      "sprites": {
+        "type": "image",
+        "path": "background_bomb.png"
+      }
+    },
+    {
+      "velocity": "2",
+      "angle_change": "-3",
+      "x": "100",
+      "y": "300",
+      "separation_x": "2000",
+      "animation_velocity": "8",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_02/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "2",
+      "angle_change": "-1",
+      "x": "1300",
+      "y": "50",
+      "separation_x": "2000",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_01/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "2",
+      "angle_change": "3",
+      "x": "900",
+      "y": "1000",
+      "separation_x": "2000",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_01/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_01/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "2",
+      "angle_change": "1",
+      "x": "1100",
+      "y": "850",
+      "separation_x": "2000",
+      "animation_velocity": "8",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_02/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "2",
+      "angle_change": "5",
+      "x": "1700",
+      "y": "200",
+      "separation_x": "2000",
+      "animation_velocity": "7",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_02/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "2",
+      "angle_change": "7",
+      "x": "1800",
+      "y": "180",
+      "separation_x": "2000",
+      "animation_velocity": "7",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "rubbish_02/01.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/02.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/03.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/04.png"
+        },
+        {
+          "type": "image",
+          "path": "rubbish_02/05.png"
+        }
+      ]
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "50",
+      "y": "0",
+      "separation_x": "550",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform_big.png"
+        }
+      ],
+      "bounds": {
+        "is_active": "yes",
+        "x": "80",
+        "y": "0",
+        "width": "880",
+        "height": "885"
+      }
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "1100",
+      "y": "0",
+      "separation_x": "1050",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform.png"
+        }
+      ],
+      "bounds": {
+        "is_active": "yes",
+        "x": "33",
+        "y": "17",
+        "width": "440",
+        "height": "425"
+      }
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "1100",
+      "y": "550",
+      "separation_x": "1050",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform.png"
+        }
+      ],
+      "bounds": {
+        "is_active": "yes",
+        "x": "33",
+        "y": "17",
+        "width": "440",
+        "height": "425"
+      }
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "50",
+      "y": "0",
+      "type": "bomb",
+      "separation_x": "550",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform_big_bomb.png"
+        }
+      ]
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "1100",
+      "y": "0",
+      "type": "bomb",
+      "separation_x": "1050",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform_bomb.png"
+        }
+      ]
+    },
+    {
+      "velocity": "-1",
+      "angle": "0",
+      "x": "1100",
+      "y": "550",
+      "type": "bomb",
+      "separation_x": "1050",
+      "animation_velocity": "5",
+      "sprites": [
+        {
+          "type": "image",
+          "path": "platform_bomb.png"
+        }
+      ]
+    }
+  ]
+}

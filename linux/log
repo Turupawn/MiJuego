@@ -1,0 +1,304 @@
+Utility initialized.
+Initializing sound.
+Sound initialized.
+Initializing receiver.
+Parsing: ../assets/config.json
+Receiver initialized.
+Initializing API integrator.
+API integrator initialized.
+Initializing graphics.
+Initializing graphics
+Parsing config
+Parsing: ../assets/config.json
+Initializing SDL
+Setting up font
+Error: Could not init font.
+OpenGL stuff
+Windowed or fullscreen setup stuff
+More GL stuff
+GL flags setupY
+GL flags setupA
+GL flags setupB
+GL flags setupC
+GL flags setupD
+Setting up inputs
+Notifications
+Graphics initialization finished
+Parser graphics.
+Initializing networking.
+../assets/misc/messages/loading.png loaded
+../assets/misc/messages/error.png loaded
+../assets/misc/messages/sucess.png loaded
+Sound ../assets/menu/audio/back.ogg loaded
+Sound ../assets/menu/audio/confirm.ogg loaded
+Sound ../assets/menu/audio/down.ogg loaded
+Sound ../assets/menu/audio/left.ogg loaded
+Sound ../assets/menu/audio/right.ogg loaded
+Sound ../assets/menu/audio/up.ogg loaded
+Sound ../assets/menu/audio/invalid.ogg loaded
+../assets/menu/studio.png loaded
+../assets/menu/game_ilustration.png loaded
+Playing music: ../assets/intro.ogg
+Parsing: ../assets/config.json
+Parsing: ../assets/config.json
+../assets/stages/Normal/images/preview.png loaded
+../assets/stages/Hard/images/preview.png loaded
+../assets/menu/background.png loaded
+../assets/menu/stage_loading.png loaded
+../assets/menu/left_arrow.png loaded
+../assets/menu/right_arrow.png loaded
+../assets/menu/up_arrow.png loaded
+../assets/menu/line.png loaded
+../assets/menu/stage_clear.png loaded
+../assets/menu/stage_perfect.png loaded
+Initializing game.
+Parsing: ../assets/chars/player/character.json
+../assets/chars/player/sprites/life_bar.png loaded
+Sound ../assets/chars/player/sounds/hurt.ogg loaded
+Sound ../assets/chars/player/sounds/destroyed.ogg loaded
+../assets/chars/player/sprites/idle/01.png loaded
+../assets/chars/player/sprites/idle/02.png loaded
+../assets/chars/player/sprites/idle/03.png loaded
+../assets/chars/player/sprites/up/01.png loaded
+../assets/chars/player/sprites/up/02.png loaded
+../assets/chars/player/sprites/up/03.png loaded
+../assets/chars/player/sprites/down/01.png loaded
+../assets/chars/player/sprites/down/02.png loaded
+../assets/chars/player/sprites/down/03.png loaded
+../assets/chars/player/sprites/idle/01.png loaded
+../assets/chars/player/sprites/idle/02.png loaded
+../assets/chars/player/sprites/idle/03.png loaded
+../assets/chars/player/sprites/left/01.png loaded
+../assets/chars/player/sprites/left/02.png loaded
+../assets/chars/player/sprites/left/03.png loaded
+../assets/chars/player/sprites/right/01.png loaded
+../assets/chars/player/sprites/right/02.png loaded
+../assets/chars/player/sprites/right/03.png loaded
+../assets/chars/player/sprites/idle/01.png loaded
+../assets/chars/player/sprites/idle/02.png loaded
+../assets/chars/player/sprites/idle/03.png loaded
+../assets/chars/player/sprites/dash_up/01.png loaded
+../assets/chars/player/sprites/dash_up/02.png loaded
+../assets/chars/player/sprites/dash_up/03.png loaded
+../assets/chars/player/sprites/dash_down/01.png loaded
+../assets/chars/player/sprites/dash_down/02.png loaded
+../assets/chars/player/sprites/dash_down/03.png loaded
+../assets/chars/player/sprites/dash_left/01.png loaded
+../assets/chars/player/sprites/dash_left/02.png loaded
+../assets/chars/player/sprites/dash_left/03.png loaded
+../assets/chars/player/sprites/dash_right/01.png loaded
+../assets/chars/player/sprites/dash_right/02.png loaded
+../assets/chars/player/sprites/dash_right/03.png loaded
+../assets/chars/player/sprites/idle/01.png loaded
+Parsing: ../assets/chars/player/bullets.json
+Sound ../assets/chars/player/sounds/primary_shot.ogg loaded
+../assets/chars/player/sprites/bullets/rocket/01.png loaded
+../assets/chars/player/sprites/bullets/rocket/02.png loaded
+../assets/chars/player/sprites/on_hit.png loaded
+../assets/chars/player/sprites/bullets/spike/01.png loaded
+../assets/chars/player/sprites/on_hit.png loaded
+Parsing: ../assets/chars/player/attacks.json
+Parsing: ../assets/chars/player/character.json
+../assets/chars/player/sprites/hitbox/01.png loaded
+../assets/chars/player/sprites/hitbox/02.png loaded
+../assets/chars/player/sprites/hitbox/03.png loaded
+../assets/chars/player/sprites/hitbox/04.png loaded
+Parsing: ../assets/chars/player/character.json
+Sound ../assets/chars/player/sounds/bomb.ogg loaded
+Sound ../assets/chars/player/sounds/dash.ogg loaded
+../assets/chars/player/sprites/bomb_background/30.png loaded
+../assets/chars/player/sprites/bomb_background/29.png loaded
+../assets/chars/player/sprites/bomb_background/28.png loaded
+../assets/chars/player/sprites/bomb_background/27.png loaded
+../assets/chars/player/sprites/bomb_background/26.png loaded
+../assets/chars/player/sprites/bomb_background/25.png loaded
+../assets/chars/player/sprites/bomb_background/24.png loaded
+../assets/chars/player/sprites/bomb_background/23.png loaded
+../assets/chars/player/sprites/bomb_background/22.png loaded
+../assets/chars/player/sprites/bomb_background/21.png loaded
+../assets/chars/player/sprites/bomb_background/20.png loaded
+../assets/chars/player/sprites/bomb_background/19.png loaded
+../assets/chars/player/sprites/bomb_background/18.png loaded
+../assets/chars/player/sprites/bomb_background/17.png loaded
+../assets/chars/player/sprites/bomb_background/16.png loaded
+../assets/chars/player/sprites/bomb_background/15.png loaded
+../assets/chars/player/sprites/bomb_background/14.png loaded
+../assets/chars/player/sprites/bomb_background/13.png loaded
+../assets/chars/player/sprites/bomb_background/12.png loaded
+../assets/chars/player/sprites/bomb_background/11.png loaded
+../assets/chars/player/sprites/bomb_background/10.png loaded
+../assets/chars/player/sprites/bomb_background/09.png loaded
+../assets/chars/player/sprites/bomb_background/08.png loaded
+../assets/chars/player/sprites/bomb_background/07.png loaded
+../assets/chars/player/sprites/bomb_background/06.png loaded
+../assets/chars/player/sprites/bomb_background/05.png loaded
+../assets/chars/player/sprites/bomb_background/04.png loaded
+../assets/chars/player/sprites/bomb_background/03.png loaded
+../assets/chars/player/sprites/bomb_background/02.png loaded
+../assets/chars/player/sprites/bomb_background/01.png loaded
+../assets/misc/jump.png loaded
+Parsing: ../assets/stages/Normal/Enemy/character.json
+../assets/stages/Normal/Enemy/sprites/life_bar.png loaded
+Sound ../assets/stages/Normal/Enemy/sounds/hurt.ogg loaded
+Sound ../assets/stages/Normal/Enemy/sounds/destroyed.ogg loaded
+../assets/stages/Normal/Enemy/sprites/01.png loaded
+../assets/stages/Normal/Enemy/sprites/02.png loaded
+../assets/stages/Normal/Enemy/sprites/01.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/01.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/02.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/03.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/04.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/05.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/06.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/07.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/08.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/09.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/10.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/11.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/12.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/13.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/14.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/16.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/17.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/18.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/19.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/20.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/21.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/22.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/23.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/24.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/25.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/26.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/27.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/28.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/29.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/30.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/31.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/32.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/33.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/34.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/35.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/36.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/37.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/38.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/39.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/40.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/41.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/42.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion/43.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/01.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/02.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/03.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/04.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/05.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/06.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/07.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/08.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/09.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/10.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/11.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/12.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/13.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/14.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/16.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/17.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/18.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/19.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/20.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/21.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/22.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/23.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/24.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/25.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/26.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/27.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/28.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/29.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/30.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/31.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/32.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/33.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/34.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/35.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/36.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/37.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/38.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/39.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/40.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/41.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/42.png loaded
+../assets/stages/Normal/Enemy/sprites/explosion_big/43.png loaded
+Parsing: ../assets/stages/Normal/Enemy/bullets.json
+Sound ../assets/stages/Normal/Enemy/sounds/lazer.ogg loaded
+../assets/stages/Normal/Enemy/sprites/bullets/lazer/01.png loaded
+../assets/stages/Normal/Enemy/sprites/bullets/lazer/02.png loaded
+../assets/stages/Normal/Enemy/sprites/on_hit.png loaded
+Sound ../assets/stages/Normal/Enemy/sounds/bubble.ogg loaded
+../assets/stages/Normal/Enemy/sprites/bullets/ball/01.png loaded
+../assets/stages/Normal/Enemy/sprites/on_hit.png loaded
+Parsing: ../assets/stages/Normal/Enemy/attacks.json
+Parsing: ../assets/stages/Normal/Enemy/character.json
+Sound ../assets/stages/Normal/Enemy/sounds/bullet_cancel.ogg loaded
+Parsing: ../assets/stages/Normal/Enemy/modifiers.json
+Loading stage from XML.
+Parsing: ../assets/stages/Normal/stage.json
+Loading stage's BackLayers.
+../assets/stages/Normal/images/background.png loaded
+../assets/stages/Normal/images/background_bomb.png loaded
+../assets/stages/Normal/images/rubbish_02/01.png loaded
+../assets/stages/Normal/images/rubbish_02/02.png loaded
+../assets/stages/Normal/images/rubbish_02/03.png loaded
+../assets/stages/Normal/images/rubbish_02/04.png loaded
+../assets/stages/Normal/images/rubbish_02/05.png loaded
+../assets/stages/Normal/images/rubbish_01/01.png loaded
+../assets/stages/Normal/images/rubbish_01/02.png loaded
+../assets/stages/Normal/images/rubbish_01/03.png loaded
+../assets/stages/Normal/images/rubbish_01/04.png loaded
+../assets/stages/Normal/images/rubbish_01/05.png loaded
+../assets/stages/Normal/images/rubbish_01/01.png loaded
+../assets/stages/Normal/images/rubbish_01/02.png loaded
+../assets/stages/Normal/images/rubbish_01/03.png loaded
+../assets/stages/Normal/images/rubbish_01/04.png loaded
+../assets/stages/Normal/images/rubbish_01/05.png loaded
+../assets/stages/Normal/images/rubbish_02/01.png loaded
+../assets/stages/Normal/images/rubbish_02/02.png loaded
+../assets/stages/Normal/images/rubbish_02/03.png loaded
+../assets/stages/Normal/images/rubbish_02/04.png loaded
+../assets/stages/Normal/images/rubbish_02/05.png loaded
+../assets/stages/Normal/images/rubbish_02/01.png loaded
+../assets/stages/Normal/images/rubbish_02/02.png loaded
+../assets/stages/Normal/images/rubbish_02/03.png loaded
+../assets/stages/Normal/images/rubbish_02/04.png loaded
+../assets/stages/Normal/images/rubbish_02/05.png loaded
+../assets/stages/Normal/images/rubbish_02/01.png loaded
+../assets/stages/Normal/images/rubbish_02/02.png loaded
+../assets/stages/Normal/images/rubbish_02/03.png loaded
+../assets/stages/Normal/images/rubbish_02/04.png loaded
+../assets/stages/Normal/images/rubbish_02/05.png loaded
+../assets/stages/Normal/images/platform_big.png loaded
+../assets/stages/Normal/images/platform.png loaded
+../assets/stages/Normal/images/platform.png loaded
+../assets/stages/Normal/images/platform_big_bomb.png loaded
+../assets/stages/Normal/images/platform_bomb.png loaded
+../assets/stages/Normal/images/platform_bomb.png loaded
+Loading stage's FrontLayers.
+Stage loaded succesfully from Json.
+Playing music: ../assets/1.ogg
+../assets/misc/you_win.png loaded
+../assets/misc/you_lose.png loaded
+Player lost
+Deleting stage.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.
+Deleting layer.

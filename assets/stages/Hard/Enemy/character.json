@@ -1,0 +1,387 @@
+{
+  "velocity": "0",
+  "animation_velocity": "12",
+  "hp": "1750",
+  "initial_position": {
+    "x": "1650",
+    "y": "550"
+  },
+  "sounds": {
+    "hit": "sounds/hurt.ogg",
+    "destroyed": "sounds/destroyed.ogg",
+    "bullet_cancel": "sounds/bullet_cancel.ogg"
+  },
+  "life_bar": {
+    "image": "sprites/life_bar.png",
+    "x": "1070",
+    "y": "10",
+    "width": "800",
+    "height": "45",
+    "color":
+    {
+      "red": "247",
+      "green": "98",
+      "blue": "90"
+    }
+  },
+  "states": [
+    {
+      "name": "start",
+      "sprites": [
+        {
+          "path": "01.png"
+        },
+        {
+          "path": "02.png"
+        }
+      ]
+    },
+    {
+      "name": "destroyed",
+      "sprites": [
+        {
+          "path": "01.png"
+        }
+      ]
+    }
+  ],
+  "hitboxes": [
+    {
+      "x": "-100",
+      "y": "-300",
+      "width": "200",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-90",
+      "y": "-300",
+      "width": "180",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-80",
+      "y": "-300",
+      "width": "160",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-70",
+      "y": "-300",
+      "width": "140",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-60",
+      "y": "-300",
+      "width": "120",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-50",
+      "y": "-300",
+      "width": "100",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-40",
+      "y": "-300",
+      "width": "80",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-30",
+      "y": "-300",
+      "width": "60",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-20",
+      "y": "-300",
+      "width": "40",
+      "height": "550",
+      "angle": "0"
+    },
+    {
+      "x": "-10",
+      "y": "-300",
+      "width": "20",
+      "height": "550",
+      "angle": "0"
+    }
+  ],
+  "animations":
+  [
+    {
+      "name": "explosion",
+      "images":
+      [
+        {
+          "path": "sprites/explosion/01.png"
+        },
+        {
+          "path": "sprites/explosion/02.png"
+        },
+        {
+          "path": "sprites/explosion/03.png"
+        },
+        {
+          "path": "sprites/explosion/04.png"
+        },
+        {
+          "path": "sprites/explosion/05.png"
+        },
+        {
+          "path": "sprites/explosion/06.png"
+        },
+        {
+          "path": "sprites/explosion/07.png"
+        },
+        {
+          "path": "sprites/explosion/08.png"
+        },
+        {
+          "path": "sprites/explosion/09.png"
+        },
+        {
+          "path": "sprites/explosion/10.png"
+        },
+        {
+          "path": "sprites/explosion/11.png"
+        },
+        {
+          "path": "sprites/explosion/12.png"
+        },
+        {
+          "path": "sprites/explosion/13.png"
+        },
+        {
+          "path": "sprites/explosion/14.png"
+        },
+        {
+          "path": "sprites/explosion/16.png"
+        },
+        {
+          "path": "sprites/explosion/17.png"
+        },
+        {
+          "path": "sprites/explosion/18.png"
+        },
+        {
+          "path": "sprites/explosion/19.png"
+        },
+        {
+          "path": "sprites/explosion/20.png"
+        },
+        {
+          "path": "sprites/explosion/21.png"
+        },
+        {
+          "path": "sprites/explosion/22.png"
+        },
+        {
+          "path": "sprites/explosion/23.png"
+        },
+        {
+          "path": "sprites/explosion/24.png"
+        },
+        {
+          "path": "sprites/explosion/25.png"
+        },
+        {
+          "path": "sprites/explosion/26.png"
+        },
+        {
+          "path": "sprites/explosion/27.png"
+        },
+        {
+          "path": "sprites/explosion/28.png"
+        },
+        {
+          "path": "sprites/explosion/29.png"
+        },
+        {
+          "path": "sprites/explosion/30.png"
+        },
+        {
+          "path": "sprites/explosion/31.png"
+        },
+        {
+          "path": "sprites/explosion/32.png"
+        },
+        {
+          "path": "sprites/explosion/33.png"
+        },
+        {
+          "path": "sprites/explosion/34.png"
+        },
+        {
+          "path": "sprites/explosion/35.png"
+        },
+        {
+          "path": "sprites/explosion/36.png"
+        },
+        {
+          "path": "sprites/explosion/37.png"
+        },
+        {
+          "path": "sprites/explosion/38.png"
+        },
+        {
+          "path": "sprites/explosion/39.png"
+        },
+        {
+          "path": "sprites/explosion/40.png"
+        },
+        {
+          "path": "sprites/explosion/41.png"
+        },
+        {
+          "path": "sprites/explosion/42.png"
+        },
+        {
+          "path": "sprites/explosion/43.png"
+        }
+      ]
+    },
+    {
+      "name": "explosion_big",
+      "images":
+      [
+        {
+          "path": "sprites/explosion_big/01.png"
+        },
+        {
+          "path": "sprites/explosion_big/02.png"
+        },
+        {
+          "path": "sprites/explosion_big/03.png"
+        },
+        {
+          "path": "sprites/explosion_big/04.png"
+        },
+        {
+          "path": "sprites/explosion_big/05.png"
+        },
+        {
+          "path": "sprites/explosion_big/06.png"
+        },
+        {
+          "path": "sprites/explosion_big/07.png"
+        },
+        {
+          "path": "sprites/explosion_big/08.png"
+        },
+        {
+          "path": "sprites/explosion_big/09.png"
+        },
+        {
+          "path": "sprites/explosion_big/10.png"
+        },
+        {
+          "path": "sprites/explosion_big/11.png"
+        },
+        {
+          "path": "sprites/explosion_big/12.png"
+        },
+        {
+          "path": "sprites/explosion_big/13.png"
+        },
+        {
+          "path": "sprites/explosion_big/14.png"
+        },
+        {
+          "path": "sprites/explosion_big/16.png"
+        },
+        {
+          "path": "sprites/explosion_big/17.png"
+        },
+        {
+          "path": "sprites/explosion_big/18.png"
+        },
+        {
+          "path": "sprites/explosion_big/19.png"
+        },
+        {
+          "path": "sprites/explosion_big/20.png"
+        },
+        {
+          "path": "sprites/explosion_big/21.png"
+        },
+        {
+          "path": "sprites/explosion_big/22.png"
+        },
+        {
+          "path": "sprites/explosion_big/23.png"
+        },
+        {
+          "path": "sprites/explosion_big/24.png"
+        },
+        {
+          "path": "sprites/explosion_big/25.png"
+        },
+        {
+          "path": "sprites/explosion_big/26.png"
+        },
+        {
+          "path": "sprites/explosion_big/27.png"
+        },
+        {
+          "path": "sprites/explosion_big/28.png"
+        },
+        {
+          "path": "sprites/explosion_big/29.png"
+        },
+        {
+          "path": "sprites/explosion_big/30.png"
+        },
+        {
+          "path": "sprites/explosion_big/31.png"
+        },
+        {
+          "path": "sprites/explosion_big/32.png"
+        },
+        {
+          "path": "sprites/explosion_big/33.png"
+        },
+        {
+          "path": "sprites/explosion_big/34.png"
+        },
+        {
+          "path": "sprites/explosion_big/35.png"
+        },
+        {
+          "path": "sprites/explosion_big/36.png"
+        },
+        {
+          "path": "sprites/explosion_big/37.png"
+        },
+        {
+          "path": "sprites/explosion_big/38.png"
+        },
+        {
+          "path": "sprites/explosion_big/39.png"
+        },
+        {
+          "path": "sprites/explosion_big/40.png"
+        },
+        {
+          "path": "sprites/explosion_big/41.png"
+        },
+        {
+          "path": "sprites/explosion_big/42.png"
+        },
+        {
+          "path": "sprites/explosion_big/43.png"
+        }
+      ]
+    }
+  ]
+}
